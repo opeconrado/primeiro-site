@@ -1,7 +1,3 @@
-Aqui está o conteúdo da descrição da atividade formatado como um arquivo `README.md` para o seu repositório no GitHub:
-
----
-
 # Cadastro de Tarefas com React
 
 Este projeto consiste em uma aplicação simples de cadastro de tarefas desenvolvida em React. A aplicação permite que o usuário adicione tarefas, escolha uma cor de fundo para a página e tenha seu nome armazenado para personalização da experiência.
